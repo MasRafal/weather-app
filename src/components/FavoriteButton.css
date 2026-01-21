@@ -1,0 +1,60 @@
+.favorite-btn {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.favorite-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.favorite-btn--small {
+  width: 32px;
+  height: 32px;
+}
+
+.favorite-btn--small .favorite-btn__icon {
+  font-size: 1.25rem;
+}
+
+.favorite-btn--medium {
+  width: 40px;
+  height: 40px;
+}
+
+.favorite-btn--medium .favorite-btn__icon {
+  font-size: 1.5rem;
+}
+
+.favorite-btn--large {
+  width: 48px;
+  height: 48px;
+}
+
+.favorite-btn--large .favorite-btn__icon {
+  font-size: 1.75rem;
+}
+
+.favorite-btn__icon {
+  color: white;
+  line-height: 1;
+}
+
+.favorite-btn--active .favorite-btn__icon {
+  color: #ffd700;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.favorite-btn--active {
+  background: rgba(255, 215, 0, 0.2);
+}
+
+.favorite-btn--active:hover {
+  background: rgba(255, 215, 0, 0.3);
+}

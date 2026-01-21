@@ -1,0 +1,27 @@
+.temp-unit-selector {
+  display: flex;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 25px;
+  padding: 4px;
+}
+
+.temp-unit-selector__btn {
+  background: transparent;
+  border: none;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 20px;
+  transition: background 0.2s ease;
+}
+
+.temp-unit-selector__btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.temp-unit-selector__btn.active {
+  background: white;
+  color: #667eea;
+}

@@ -1,0 +1,32 @@
+.weather-detail {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+}
+
+.weather-detail__icon {
+  font-size: 1.75rem;
+}
+
+.weather-detail__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.weather-detail__label {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.weather-detail__value {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.weather-detail__sub-value {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}

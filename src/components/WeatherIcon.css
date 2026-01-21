@@ -1,0 +1,29 @@
+.weather-icon {
+  display: inline-block;
+  line-height: 1;
+}
+
+.weather-icon--small {
+  font-size: 1.5rem;
+}
+
+.weather-icon--medium {
+  font-size: 3rem;
+}
+
+.weather-icon--large {
+  font-size: 5rem;
+}
+
+.weather-icon--sunny {
+  filter: drop-shadow(0 0 8px rgba(255, 193, 7, 0.5));
+}
+
+.weather-icon--rainy,
+.weather-icon--stormy {
+  filter: drop-shadow(0 0 8px rgba(100, 149, 237, 0.5));
+}
+
+.weather-icon--snowy {
+  filter: drop-shadow(0 0 8px rgba(173, 216, 230, 0.5));
+}

@@ -20,13 +20,13 @@ Prosta aplikacja pogodowa zbudowana w React, która umożliwia sprawdzenie aktua
 ### Widok listy miast
 Główny ekran aplikacji z listą zapisanych lokalizacji.
 
-![Zrzut ekranu - widok listy miast](C:\Users\fajso\weather-app\ss1.png)
+![Zrzut ekranu - widok listy miast](/ss1)
 *(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
 
 ### Widok szczegółowy miasta
 Szczegółowe informacje pogodowe po wybraniu miasta (np. Warszawy).
 
-![Zrzut ekranu - widok szczegółowy](ss2.png)
+![Zrzut ekranu - widok szczegółowy](/ss2)
 *(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
 
 ## Jak uruchomić projekt lokalnie?

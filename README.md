@@ -17,9 +17,9 @@ Prosta aplikacja pogodowa zbudowana w React, która umożliwia sprawdzenie aktua
 
 ## Zrzuty ekranu
 
-![Weather app](./ss1.png)
-
 ![Weather app](ss2.png)
+
+![Weather app](ss1.png)
 
 
 ## Jak uruchomić projekt lokalnie?

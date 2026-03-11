@@ -17,20 +17,16 @@ Prosta aplikacja pogodowa zbudowana w React, która umożliwia sprawdzenie aktua
 
 ## Zrzuty ekranu
 
-### Widok listy miast
-Główny ekran aplikacji z listą zapisanych lokalizacji.
-
-![Weather app](./ss1)
-*(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
-
-### Widok szczegółowy miasta
-Szczegółowe informacje pogodowe po wybraniu miasta (np. Warszawy).
+![Weather app](./ss1.png)
 
 ![Weather app](ss2.png)
-*(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
+
 
 ## Jak uruchomić projekt lokalnie?
 
 1.  **Sklonuj repozytorium**
     ```bash
     git clone https://github.com/MasRafal/weather-app.git
+    cd weather-app
+    npm install
+    npm start

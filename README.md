@@ -20,7 +20,7 @@ Prosta aplikacja pogodowa zbudowana w React, która umożliwia sprawdzenie aktua
 ### Widok listy miast
 Główny ekran aplikacji z listą zapisanych lokalizacji.
 
-![Screenshot](ss1.png)
+![Zrzut ekranu](https://github.com/MasRafal/weather-app/blob/main/ss1.png?raw=true)
 *(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
 
 ### Widok szczegółowy miasta

@@ -20,13 +20,13 @@ Prosta aplikacja pogodowa zbudowana w React, która umożliwia sprawdzenie aktua
 ### Widok listy miast
 Główny ekran aplikacji z listą zapisanych lokalizacji.
 
-![Screenshot](ss2)
+![Weather app](ss1.png)
 *(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
 
 ### Widok szczegółowy miasta
 Szczegółowe informacje pogodowe po wybraniu miasta (np. Warszawy).
 
-![Screenshot](ss2.png)
+![Weather app](ss2.png)
 *(Uwaga: Upewnij się, że plik obrazu znajduje się w głównym katalogu projektu, aby ścieżka działała poprawnie.)*
 
 ## Jak uruchomić projekt lokalnie?
